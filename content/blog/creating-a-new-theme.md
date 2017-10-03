@@ -39,3 +39,9 @@ There you go! Those are the 10 golden rules to create a great interface for your
 For this project, I created a fictitious online store called Sports Outfit, and, as you may have guessed, it sells sporting goods. One of the tasks was create a catalogue page. Here you can see the Men’s Catalogue page:
 
 ![](/images/catalogue.png)
+
+This page introduces the following principles: minimalist design (only relevant information is displayed on the screen), visibility of system status (user has clear visual clues on which section of the website he is: Men’s catalogue > Jerseys), and consistency and standards (color palette, typeface, header and footer remain the same throughout the entire website).
+
+Up next is the product’s page: 
+
+
