@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artie &#39;n Design</title>
+    <link>http://www.artiendesign.com/</link>
+    <description>Recent content on Artie &#39;n Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.artiendesign.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interface Design Guidelines</title>
+      <link>http://www.artiendesign.com/blog/creating-a-new-theme/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.artiendesign.com/blog/creating-a-new-theme/</guid>
+      <description>Creating a new app or website can be a lot of fun. You think about the concept, research different design approaches and let your creativity take charge. When your creation is complete, you look at it and say, ‘I nailed it!’ But, did you? Just because you might have a killer design for your product, it doesn’t mean that it will be used by the same form by anyone. Therefore, you need to consider some interface design guidelines while working on your project.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.artiendesign.com/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>http://www.artiendesign.com/about/</guid>
+      <description>Welcome to the Osprey Theme To create an about section, generate an about.md file in your content folder by doing:
+$ hugo new about.md  Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.</description>
+    </item>
+    
+    <item>
+      <title>Toma Nistor</title>
+      <link>http://www.artiendesign.com/gallery/toma-nistor/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>http://www.artiendesign.com/gallery/toma-nistor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://www.artiendesign.com/gallery/hugo/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>http://www.artiendesign.com/gallery/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osprey</title>
+      <link>http://www.artiendesign.com/gallery/osprey/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>http://www.artiendesign.com/gallery/osprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rugged Fellows Guide</title>
+      <link>http://www.artiendesign.com/gallery/rugged-fellows-guide/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>http://www.artiendesign.com/gallery/rugged-fellows-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

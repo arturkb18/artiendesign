@@ -44,4 +44,20 @@ This page introduces the following principles: minimalist design (only relevant 
 
 Up next is the product’s page: 
 
+![](/images/product_page.jpg)
 
+As you can see, the visual identity remains the same, and the way information is displayed is consistent with the catalogue page. The call to action button ADD TO CART has an orange color to draw user’s attention, creating a great contrast with the rest of the page.
+
+Finally, we have the checkout page:
+
+![](/images/checkout_page.png)
+
+Here, the visibility of system status plays a major role. When the user is going to buy something on line, he wants to know where in the process he to complete his order. So, right at the top, you can immediately see that you’ll have to go through 3 steps to place the order. Also, on the right side of the screen, there is a summary of the order and the list of products in your shopping cart. What is this rule about? You’re right, recognition rather than recall! 
+
+Instead of having to remember what items are on the shopping cart and how much the order is due, we leave this information available to the user all the time. It also prevents him from buying some undesirable item, as well as gives him the ability to edit the shopping cart in a fast and effective way. And this brings us another rule: efficiency of use.
+
+Finally, another principle is present in every page I created for this project: match between system and real world. To represent the search bar, I used the magnifier glass, and the shopping cart is used as a metaphor for all the items that are on the user’s shopping list, just like as if he were in a grocery store.
+
+By following these simple guidelines, you can still create great designs without leaving your user lost, confused and/or frustrated. It is a win-win situation and everybody is happy with the results.
+
+And this is what I have to say about interface design guidelines. I hope you enjoyed this article and that you could learn at least one thing or two from it. Thank you for reading this and I hope to have you again for my next article, which will talk about typography.
