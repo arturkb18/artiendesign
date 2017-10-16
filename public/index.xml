@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.artiendesign.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Why Typography Matters</title>
+      <link>http://www.artiendesign.com/blog/why-typography-matters/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.artiendesign.com/blog/why-typography-matters/</guid>
+      <description>A few years ago, I was watching the TV show The Middle, and in this episode Brick comes up with a podcast called “The FontCast”, and I laughed out loud with it. After all, what could be more boring an uninteresting than talking about fonts? At the time, I thought, ‘Who cares about fonts? They are just letters put together so we can read the words!’. That was way before I started studying design and I had no idea how fonts and typography can be a key factor for your final work.</description>
+    </item>
+    
+    <item>
       <title>Interface Design Guidelines</title>
-      <link>http://www.artiendesign.com/blog/interface_design_guidelines/</link>
+      <link>http://www.artiendesign.com/blog/interface-design-guidelines/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.artiendesign.com/blog/interface_design_guidelines/</guid>
+      <guid>http://www.artiendesign.com/blog/interface-design-guidelines/</guid>
       <description>Creating a new app or website can be a lot of fun. You think about the concept, research different design approaches and let your creativity take charge. When your creation is complete, you look at it and say, ‘I nailed it!’ But, did you? Just because you might have a killer design for your product, it doesn’t mean that it will be used by the same form by anyone. Therefore, you need to consider some interface design guidelines while working on your project.</description>
     </item>
     
